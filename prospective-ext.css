@@ -1,0 +1,46 @@
+#topbar {
+  background: #082a4a;
+}
+
+#intro {
+  background-image: url(intro-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#services {
+  background-color: #eef2f6;
+}
+
+#block1 {
+  background: linear-gradient(to right, #5a154a, #922278);
+}
+
+#feedback {
+  background-color: #eef2f6;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: white;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
+
+.accordion-button:hover {
+  background: #efefef;
+}
+
+.accordion-body {
+  background: #dfe7f8;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.accordion-body a:hover {
+  background: rgba(11, 87, 208, 0.24);
+}
