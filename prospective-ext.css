@@ -2,6 +2,9 @@
   background: #082a4a;
 }
 
+body {
+  background: #ddd;
+}
 #intro {
   background-image: url(intro-bg.png);
   background-size: cover;
